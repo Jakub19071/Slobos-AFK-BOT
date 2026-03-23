@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Jakub19071.aternos.me",
+    "ip": "Jakub19071.aternos.me:61977",
     "port": 61977,
     "version": "1.21.11"
   },
